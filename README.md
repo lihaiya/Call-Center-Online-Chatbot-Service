@@ -5,6 +5,7 @@ LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,豆包，这些在线客服、
 注意：前端太老了，还是jQuery的，还在改版。
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
+
 ## - 📫 How to reach us 📫:
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
@@ -13,20 +14,28 @@ LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,豆包，这些在线客服、
 
 # FreeIPCC团队其它产品demo链接enjoy😄😄😄😄😄
 
-1，话务/在线客服chatbot：(demo123/demo123@Abc)
+1，话务/在线客服chatbot：
 http://118.25.192.13:8822/cc
+账户、密码：demo123/demo123@Abc
 
-2，工单：(demo/123456)
+2，工单：
 http://118.25.192.13:80
+账户、密码：demo/123456
+
 ### 开发语言：业务代码Java为主，大模型代码Python为主
 
 # FreeIPCC的目标、愿景与基础功能阐述
 
-目标
+目标：
+
 致力于成为：
+
 1，大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；
+
 2，开源呼叫中心系统、开源客服系统；
+
 3，视频呼叫中心系统、视频客服系统；
+
 4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
 愿景：

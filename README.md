@@ -1,5 +1,5 @@
 # Call Center Online Chatbot Service 呼叫中心在线聊天机器人
-call center、contact center、呼叫中心、联络中心中的在线聊天机器人，可转人工坐席!!
+call center、contact center、呼叫中心、联络中心中的在线聊天机器人，可转人工坐席!
 
 ## 😄完整性：前端、后端、数据库，齐全
 注意：前端太老了，还是jQuery的，还在改版。
@@ -74,4 +74,4 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
 ![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
 
-# 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
+# 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！

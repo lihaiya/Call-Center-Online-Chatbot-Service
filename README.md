@@ -12,7 +12,7 @@ call center、contact center、呼叫中心、联络中心中的在线聊天机�
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# FreeIPCC团队其它产品demo链接2025.04.27，enjoy😄😄😄
+# FreeIPCC团队其它产品demo链接2025.04.28，enjoy😄😄😄
 
 1，话务/在线客服chatbot：
 http://124.220.48.38:8822/cc

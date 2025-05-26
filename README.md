@@ -1,5 +1,5 @@
 # Call Center Online Chatbot Service 呼叫中心在线聊天机器人
-call center、contact center、呼叫中心、联络中心中的在线聊天机器人，可转人工坐席!!!
+call center、contact center、呼叫中心、联络中心中的在线聊天机器人，可转人工坐席!
 
 ## 😄完整性：前端、后端、数据库，齐全
 注意：前端太老了，还是jQuery的，还在改版。
@@ -12,7 +12,7 @@ call center、contact center、呼叫中心、联络中心中的在线聊天机�
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# FreeIPCC团队其它产品demo链接2025.05.25，enjoy😄
+# FreeIPCC团队其它产品demo链接2025.05.26，enjoy😄
 
 1，话务/在线客服chatbot：
 http://124.220.48.38:8822/cc
@@ -82,6 +82,7 @@ http://124.220.48.38:80
 下图是随机抽取的需求对接的群：
 
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
+![image](https://github.com/user-attachments/assets/e1f58773-3171-47c3-89e8-035857655d9b)
 
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 

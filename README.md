@@ -5,16 +5,15 @@ call center、contact center、呼叫中心、联络中心中的在线聊天机�
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
-## 😄长期目标：将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
+## 😄长期目标：引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
 
-## - 📫 How to reach us 📫:
-- 官方WeChat:freeipcc
-- Whatsapp：<a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">Click WhatsApp to Chat</a>
-- Skype：https://join.skype.com/invite/rVbQH1igkQwV
-- Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
+## 📫 How to reach us 📫:
+- 官方WeChat01:freeipcc
+- 官方WeChat02:freeaicc
+- Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
+- Email:leehear@gmail.com
 
-# FreeIPCC团队其它产品demo链接2025.06.11，enjoy😄
+# FreeIPCC团队其它产品demo链接2025.06.12，enjoy😄
 
 1，话务/在线客服chatbot：
 http://124.220.48.38:8822/cc

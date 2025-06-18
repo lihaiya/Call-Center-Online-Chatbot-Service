@@ -1,5 +1,5 @@
 # Call Center Online Chatbot Service 呼叫中心在线聊天机器人
-call center、contact center、呼叫中心、联络中心中的在线聊天机器人，可转人工坐席!!!!!!
+call center、contact center、呼叫中心、联络中心中的在线聊天机器人，可转人工坐席!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
@@ -17,7 +17,7 @@ call center、contact center、呼叫中心、联络中心中的在线聊天机�
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-# FreeIPCC团队其它产品demo链接2025.06.14，enjoy😄
+# FreeIPCC团队其它产品demo链接2025.06.18，enjoy😄
 
 1，话务/在线客服chatbot：
 http://124.220.48.38:8822/cc
